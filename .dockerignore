@@ -1,0 +1,11 @@
+# Do not need the vcs data
+.git/
+.gitignore
+
+# Directories to not pull
+tests/
+
+# Not needed in image
+Dockerfile
+MANIFEST.in
+README.rst
